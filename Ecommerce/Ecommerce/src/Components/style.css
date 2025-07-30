@@ -1,0 +1,26 @@
+
+.image {
+  height: 500px;
+}
+.imgbtn {
+  border: 2px solid white;
+}
+.googleimg {
+  height: 50px;
+  width: 100px;
+}
+.signup {
+  border: 1px solid gray;
+}
+.womens {
+  margin-left: 87px;
+}
+.register {
+  margin-left: 212px;
+}
+.password {
+  width:640px;
+}
+.buttons {
+  margin-right: 102px;
+}
